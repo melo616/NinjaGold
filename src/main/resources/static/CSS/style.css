@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+.header {
+	text-align: center;
+}
+
+.count {
+	padding: 30px;
+}
+
+.container {
+	display: flex;
+	justify-content: space-evenly
+}
+
+.box {
+	width: 150px;
+	height: 150px;
+	text-align: center;
+	border: 2px solid black;
+	padding: 5px;
+}
+
+.activities {
+	padding: 30px;
+}
